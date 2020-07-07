@@ -1,0 +1,5 @@
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\SqlHelprepForDataBase\bin\Debug\SqlHelprepForDataBase.dll
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\SqlHelprepForDataBase\bin\Debug\SqlHelprepForDataBase.pdb
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\SqlHelprepForDataBase\obj\Debug\SqlHelperForDataBase.csproj.CoreCompileInputs.cache
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\SqlHelprepForDataBase\obj\Debug\SqlHelprepForDataBase.dll
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\SqlHelprepForDataBase\obj\Debug\SqlHelprepForDataBase.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUBHv7Br6AF9qfY/PNjwy891P//mWWiYSisU9QsdI3Dw5PC2/HSFbSlxejsJaFmNzZN5DKym2M6NtOfgzZVBNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\InColumi\\Desktop\\Projects\\TakeInfoAboutCountry\\SqlHelper\\SqlHelperForDataBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\InColumi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\InColumi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

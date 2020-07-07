@@ -1,0 +1,5 @@
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\Search\bin\Debug\Search.dll
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\Search\bin\Debug\Search.pdb
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\Search\obj\Debug\Search.dll
+C:\Users\InColumi\Desktop\Projects\TakeInfoAboutCountry\Search\obj\Debug\Search.pdb
